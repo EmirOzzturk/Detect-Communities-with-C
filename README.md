@@ -1,6 +1,6 @@
 Input is a text file and Input.txt should be in this format:
 
-0:1,4,-1
+0:1,4,-1\n
 1:0,5,-1
 
 First number represents the node value. 
